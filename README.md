@@ -1,7 +1,7 @@
 # Grid Masters
 This is the project repository for the EE2026 Project for group S1-03.
 
-Grid Masters is a Tic-Tac-Toe game running entirely on a Basys 3 Artix-7 FPGA.
+Grid Masters is a Tic-Tac-Toe game running entirely on a Basys 3 Artix-7 FPGA. It comes with a fully-onboard artificial intelligence as an opponent.
 
 ## Controls
 - Centre Button: Confirm selections
@@ -18,7 +18,7 @@ This mode allows for 2 players to compete in Tic-Tac-Toe.
 The 7-segment display will show the scoreboard. The first player to 3 wins will win the round.
 
 ### Vs AI Mode
-This mode allows one player to compete against an onboard AI.
+This mode allows one player to compete against an AI.
 
 There are three levels:
 - Level 1: Randomised moves.

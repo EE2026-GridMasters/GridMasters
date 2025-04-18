@@ -4,6 +4,8 @@ from skimage import io
 from pyxelate import Pyx, Pal
 from PIL import Image
 
+# Relevant setup for pyxelate and picture2pixel installation must be done before using this script.
+
 def convert_image():
     # Directories for Input/Output
     # source_dir = 'frames'
